@@ -1,4 +1,4 @@
 # bootstrap_example
-This is my first Bootstrap page to demonstrate it's versatility using just bootstrap and HTML
+This is my first Bootstrap page to demonstrate its versatility using just Bootstrap and HTML
 
-Click the following view the project in your web-browser: [https://iosif-gogolos.github.io/bootstrap_example/](url)
+Click the following link to view the project in your web browser: [https://iosif-gogolos.github.io/bootstrap_example/](url)
